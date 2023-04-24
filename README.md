@@ -47,7 +47,6 @@ def convert(my_array):
 
 Any extra args or kwargs to `numpify` or `msgify` will be forwarded to your conversion function
 
-
 ## Future work
 
 * Add simple conversions for:
